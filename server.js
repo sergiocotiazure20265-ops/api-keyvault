@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3000;
 app.get("/", (req, res) => {
 
     res.json({
-        mensagem: "API Node.js executando com sucesso.",
+        mensagem: "API Node.js executando com sucesso (Aula Azure COTI).",
         ambiente: process.env.NODE_ENV || "local"
     });
 

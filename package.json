@@ -1,7 +1,7 @@
 {
   "name": "api-keyvault",
   "version": "1.0.0",
-  "description": "Api NodeJS para demonstrar o uso de KeyVault na Microsoft Azure",
+  "description": "Api NodeJS para demonstrar o uso de KeyVault na Microsoft Azure.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
