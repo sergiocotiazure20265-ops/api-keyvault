@@ -19,6 +19,7 @@
   "dependencies": {
     "@azure/identity": "^4.13.3",
     "@azure/keyvault-secrets": "^4.11.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "openai": "^7.27.0"
   }
 }
